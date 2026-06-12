@@ -32,7 +32,7 @@ Analysis code for SPAC-seq paper.
 
 ## Citation
 
-If you use this code, [TARDIS](https://github.com/zenglab-pku/TARDIS) or [SPAC-seq](https://spac.pku-genomics.org/) in your work, please cite:
+If you use this code, [TARDIS](https://github.com/zenglab-pku/TARDIS), or [SPAC-seq](https://spac.pku-genomics.org/) in your work, please cite:
 
 ```bibtex
 @article{Zhang2026SPACseq,
