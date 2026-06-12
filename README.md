@@ -29,3 +29,21 @@ Analysis code for SPAC-seq paper.
 * **fig_6_mapping_sc_to_spatial.r**: Seurat preprocessing of perturb-seq and spatial objects, then CellTrek-style mapping of single cells onto tissue coordinates.
 
 * **fig_6_perturb-seq_analysis.py**: Loads 10x multiome-style matrices with CRISPR features, QC filtering, normalization, clustering, and perturbation-aware single-cell summaries.
+
+## Citation
+
+If you use this code, [TARDIS](https://github.com/zenglab-pku/TARDIS) or [SPAC-seq](https://spac.pku-genomics.org/) in your work, please cite:
+
+```bibtex
+@article{Zhang2026SPACseq,
+  title   = {Uncovering spatially resolved functional genomics with CRISPR screen sequencing},
+  author  = {Zhang, Haorui and Zhang, Zongxu and Wang, Peng and Xu, Tianyi and Chen, Xinyi and Zhao, Yujie and Lin, Siqi and Cai, Weijie and Ren, Peng and Luo, Chen and Zhang, Peng and Wang, Yiming and Hou, Shuang and Zhao, Yifan and Zeng, Hongyi and Liu, Zhen and Wang, Chao and Gao, Zhen and Feng, Yu and Pan, Deng and Zeng, Zexian},
+  journal = {Cell},
+  year    = {2026},
+  month   = May,
+  pages   = {S0092-8674(26)00516-7},
+  doi     = {10.1016/j.cell.2026.04.049},
+  pmid    = {42190664},
+  note    = {Online ahead of print}
+}
+```
