@@ -37,13 +37,13 @@ If you use this code, [TARDIS](https://github.com/zenglab-pku/TARDIS), or [SPAC-
 ```bibtex
 @article{Zhang2026SPACseq,
   title   = {Uncovering spatially resolved functional genomics with CRISPR screen sequencing},
-  author  = {Zhang, Haorui and Zhang, Zongxu and Wang, Peng and Xu, Tianyi and Chen, Xinyi and Zhao, Yujie and Lin, Siqi and Cai, Weijie and Ren, Peng and Luo, Chen and Zhang, Peng and Wang, Yiming and Hou, Shuang and Zhao, Yifan and Zeng, Hongyi and Liu, Zhen and Wang, Chao and Gao, Zhen and Feng, Yu and Pan, Deng and Zeng, Zexian},
+  author  = {Zhang, Haorui and Zhang, Zongxu and Wang, Peiyu and Xu, Tianyi and Chen, Xinyi and Zhao, Yujie and Lin, Siqi and Cai, Weijie and Ren, Peng and Luo, Chen and Zhang, Peng and Wang, Yiming and Hou, Shuang and Zhao, Yifan and Zeng, Hongyi and Liu, Zhen and Wang, Chao and Gao, Zhen and Feng, Yu and Pan, Deng and Zeng, Zexian},
   journal = {Cell},
   year    = {2026},
-  month   = May,
-  pages   = {S0092-8674(26)00516-7},
+  volume  = {189},
+  number  = {15},
+  pages   = {4594--4618.e48},
   doi     = {10.1016/j.cell.2026.04.049},
-  pmid    = {42190664},
-  note    = {Online ahead of print}
+  pmid    = {42190664}
 }
 ```
